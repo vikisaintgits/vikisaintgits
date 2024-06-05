@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu T</h1>
-<h3 align="left">🌟Student at Saintgits College of Engineering, passionate about web development and machine learning. Ready to learn and explore new tech frontiers. Check out my projects and let's connect! 🚀</h3>
+<h3 align="left">🌟Student at Saintgits College of Engineering, passionate about software development and machine learning. Ready to learn and explore new tech frontiers. Check out my projects and let's connect! 🚀</h3>
 
 <p align="left">💻 Currently, I'm diving deep into the realms of web development and machine learning, exploring the endless possibilities these fields offer. Whether it's crafting elegant front-end interfaces or delving into the intricacies of data science algorithms, I'm always eager to expand my knowledge and skill set.</p>
 <p align="left">📫 Let's connect and embark on this exciting journey together! Feel free to reach out for collaboration opportunities, mentorship, or just a friendly chat.</p>
